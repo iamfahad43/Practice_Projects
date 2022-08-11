@@ -1,2 +1,2 @@
 # Practice_Projects
-All the projects while learning
+All projects that I did at freelancing
